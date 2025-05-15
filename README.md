@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="300px" alt="Graphiti-ts-small" src="https://github.com/shadynasrat/PICaSo/blob/main/docs/PICaSo_files/static/picaso_logo.png">
+<img width="300px" alt="Graphiti-ts-small" src="https://github.com/shadynasrat/Dynamic-RDMM/blob/main/docs/Dynamic-RDMM_files/static/Dynamic-RDMM_logo.png">
 
-## PICaSo: A Collaborative Robotics System for Inpainting on Physical Canvas Using Marker and Eraser
+## Dynamic-RDMM: A Collaborative Robotics System for Inpainting on Physical Canvas Using Marker and Eraser
 
 <br />
 
@@ -10,7 +10,7 @@
 ![python](https://img.shields.io/badge/python-3.9-blue?style=plastic&logo=python)
 ![ROS2](https://img.shields.io/badge/ROS-Noetic-white?style=plastic&logo=ros)
 
-Project Page : [Click Here](https://shadynasrat.github.io/PICaSo/)
+Project Page : [Click Here](https://shadynasrat.github.io/Dynamic-RDMM/)
 
 <br />
 
@@ -23,7 +23,7 @@ Robotic decision-making with large language models (LLMs) is increasingly constr
 <br />
 
 <p align="center">
-    <img src="/docs/PICaSo_files/intro.jpeg" width="700px">   
+    <img src="/docs/Dynamic-RDMM_files/intro.jpeg" width="700px">   
 </p>
 
 <br />
@@ -54,7 +54,7 @@ python main.py
 
 ## bibtex
 ```
-@inproceedings{PICaSo,
+@inproceedings{Dynamic-RDMM,
   author={Shady Nasrat, Jae-Bong Yi, Minseong Jo, and Seung-joon Yi},
   booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   pages={xxxx--xxxx},
