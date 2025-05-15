@@ -23,7 +23,7 @@ Robotic decision-making with large language models (LLMs) is increasingly constr
 <br />
 
 <p align="center">
-    <img src="/docs/Dynamic-RDMM_files/intro.jpeg" width="700px">   
+    <img src="/docs/Dynamic-RDMM_files/static/intro.jpeg" width="700px">   
 </p>
 
 <br />
